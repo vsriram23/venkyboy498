@@ -39,4 +39,4 @@ plt.ylabel('No. of reviews')
 Redf1.groupby('overall').helprate.mean().plot(kind='bar')
 plt.xlabel('Review-Rating')
 plt.ylabel('Helpfulness-Ratio')
-'''
+

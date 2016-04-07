@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 18 23:49:26 2016
-
-@author: VSriram23
-"""
-'''
 # amazon helpfulness rating regression and classification
 # reading the data into pandas dataframe
 import pandas as pd
